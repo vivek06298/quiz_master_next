@@ -1,5 +1,5 @@
 # Quiz And Survey Master (Formerly Quiz Master Next)
-// first readme changed while commit from branch master
+// first readme changed while commit from branch dev-vivek
 Easily and quickly add quizzes, tests, and surveys to your WordPress site.
 
 ## Getting Started
